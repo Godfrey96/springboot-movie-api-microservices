@@ -1,0 +1,5 @@
+/.idea
+/movie-catalog-service/target
+/movie-info-service/target
+/ratings-data-service/target
+/discovery-server/target
